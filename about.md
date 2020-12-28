@@ -6,6 +6,7 @@ title: About
 
 {:refdef: style="text-align: center;"}
 ![Profile Pic](/public/profile_pic.JPG){:height="256px"} 
+{: refdef}
 
 Celia Cintas is a [Research Scientist](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Celia.Cintas) at [IBM Research Africa](https://www.research.ibm.com/labs/africa/) - Nairobi, Kenya. She is a member of the AI Science team at the Kenya Lab. Her current research focuses on the improvement of ML techniques to address challenges on Global Health in developing countries and exploring subset scanning for anomaly detection under generative models.
  
