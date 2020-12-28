@@ -3,6 +3,7 @@ markdown:         redcarpet
 highlighter:      pygments
 
 # Permalinks
+gems: [jekyll-paginate, jekyll-gist]
 permalink:        pretty
 #relative_permalinks: true
 
