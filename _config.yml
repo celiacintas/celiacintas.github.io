@@ -9,7 +9,7 @@ permalink:        pretty
 # Setup
 title:            Celia Cintas Homepage
 tagline:          'Celia Cintas Homepage'
-description:      'Celia Cintas is a Research Scientist at  <a href="https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Celia.Cintas" target="_blank">IBM Research Africa</a> - Nairobi, Kenya. She is a member of the AI Science team at the Kenya Lab. Her current research focuses on the improvement of ML techniques to address challenges on Global Health in developing countries and exploring subset scanning for anomaly detection under generative models.'
+description:      'Celia Cintas is a Research Scientist at  <a href="https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Celia.Cintas" target="_blank">IBM Research Africa</a> - Nairobi, Kenya. She is a member of the AI Science team at the Kenya Lab.<br> Email: cintas[dot]celia[at]gmail[dot]com'
 url:              http://celiacintas.github.io
 baseurl:          /
 
