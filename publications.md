@@ -23,7 +23,7 @@ title: Publications
 ### 2018 
 
 * Quinto-Sánchez, M., Muñoz-Muñoz, F., Gomez-Valdes, J., *Cintas, C.*, Navarro, P., De Cerqueira, C.C.S., Paschetta, C., de Azevedo, S., Ramallo, V., Acuña-Alonzo, V. and Adhikari, K., 2018. Developmental pathways inferred from modularity, morphological integration and fluctuating asymmetry patterns in the human face. **Scientific reports**, 8(1), pp.1-15. [[paper]](https://www.nature.com/articles/s41598-018-19324-y)
-* Quinto Sánchez, M., *Cintas, C.*, Ramallo, V., Silva de Cerqueira, C.C., Gómez Valdés, J., Acuña Alonzo, V., Adhikari, K., Everardo, P., De Ávila, F., Jaramillo, C. and Arias, W., 2018. Relación entre asimetría fluctuante y el tratamiento hormonal, cirugía-ortodoncia maxilofacial, traumatismos y malformaciones craneofaciales. Revista Argentina de Antropología Biológica Argentina.
+* Quinto Sánchez, M., *Cintas, C.*, Ramallo, V., Silva de Cerqueira, C.C., Gómez Valdés, J., Acuña Alonzo, V., Adhikari, K., Everardo, P., De Ávila, F., Jaramillo, C. and Arias, W. Relación entre asimetría fluctuante y el tratamiento hormonal, cirugía-ortodoncia maxilofacial, traumatismos y malformaciones craneofaciales. Revista Argentina de Antropología Biológica Argentina, 2018.
 
 ### 2017
 
