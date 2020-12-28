@@ -4,7 +4,7 @@ title: About
 ---
 
 
-![Drag Racing](https://github.com/celiacintas/celiacintas.github.io/blob/main/public/profile_pic.JPG){:height="36px" width="36px"} 
+![Profile Pic](/public/profile_pic.JPG){:height="36px" width="36px"} 
 
 Celia Cintas is a [Research Scientist](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Celia.Cintas) at [IBM Research Africa](https://www.research.ibm.com/labs/africa/) - Nairobi, Kenya. She is a member of the AI Science team at the Kenya Lab. Her current research focuses on the improvement of ML techniques to address challenges on Global Health in developing countries and exploring subset scanning for anomaly detection under generative models.
  
