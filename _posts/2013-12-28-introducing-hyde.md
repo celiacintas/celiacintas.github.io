@@ -1,37 +1,21 @@
 ---
 layout: post
-title: Introducing Hyde
+title: Celia Cintas Homepage
 ---
 
-Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+Celia Cintas is a [Research Scientist](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Celia.Cintas) at [IBM Research Africa](https://www.research.ibm.com/labs/africa/) - Nairobi, Kenya. She is a member of the AI Science team at the Kenya Lab. Her current research focuses on the improvement of ML techniques to address challenges on Global Health in developing countries and exploring subset scanning for anomaly detection under generative models.
+ 
+Previously, grantee from National Scientific and Technical Research Council ([CONICET](https://www.conicet.gov.ar/?lan=en)) working on Deep Learning and Geometrics Morphometrics for populations studies at [LCI-UNS](https://imaglabs.org/) and [IPCSH-CONICET](https://ipcsh.conicet.gov.ar/) (Argentina) as part of the Consortium for Analysis of the Diversity and Evolution of Latin America ([CANDELA](https://www.ucl.ac.uk/biosciences/departments/genetics-evolution-and-environment/candela/)).  During her PhD, she was a [visiting student](https://www.ucl.ac.uk/biosciences/subject-specific-taught-modules/human-population-genetics/people) at the University College of London (UK). She was also a Postdoc researcher visitor at [Jaén University](https://www.ujaen.es/en) (Spain) applying ML to Heritage and Archeological studies. 
+ 
+She holds a Ph.D. in Computer Science from [Universidad del Sur](https://www.uns.edu.ar/ingles) (Argentina). Co-chair of several [Scipy Latinamerica conferences](https://www.scipy.lat/es/scipycon.html) and happy member of [LinuxChix Argentina](http://linuxchixar.org/). Financial Aid Co-Chair for the SciPy (USA) Committee (2016-2019) and Diversity Co-Chair for [SciPy 2020](https://www.scipy2020.scipy.org/organisers).
 
-### Built on Poole
+### Latest publications 
 
-Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Hyde here) includes the following:
+#### 2020
 
-* Complete Jekyll setup included (layouts, config, [404](/404), [RSS feed](/atom.xml), posts, and [example page](/about))
-* Mobile friendly design and development
-* Easily scalable text and component sizing with `rem` units in the CSS
-* Support for a wide gamut of HTML elements
-* Related posts (time-based, because Jekyll) below each post
-* Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)
+* Paper 0
+* Paper 1
 
-### Hyde features
+#### 2019
 
-In addition to the features of Poole, Hyde adds the following:
-
-* Sidebar includes support for textual modules and a dynamically generated navigation with active link support
-* Two orientations for content and sidebar, default (left sidebar) and [reverse](https://github.com/poole/lanyon#reverse-layout) (right sidebar), available via `<body>` classes
-* [Eight optional color schemes](https://github.com/poole/hyde#themes), available via `<body>` classes
-
-[Head to the readme](https://github.com/poole/hyde#readme) to learn more.
-
-### Browser support
-
-Hyde is by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.
-
-### Download
-
-Hyde is developed on and hosted with GitHub. Head to the <a href="https://github.com/poole/hyde">GitHub repository</a> for downloads, bug reports, and features requests.
-
-Thanks!
+See complete list on [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=7C8_pL4AAAAJ)
