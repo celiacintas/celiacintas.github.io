@@ -7,20 +7,18 @@ permalink:        pretty
 #relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
+title:            Celia Cintas Homepage
+tagline:          'Celia Cintas Homepage'
 description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:              http://celiacintas.github.io
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Celia Cintas'
+  url:            https://twitter.com/RTFMCelia
 
 paginate:         5
 
 # Custom vars
-version:          2.1.0
+version:         The template is from https://github.com/poole/hyde
 
-github:
-  repo:           https://github.com/poole/hyde
