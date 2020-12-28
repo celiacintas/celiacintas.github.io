@@ -20,5 +20,7 @@ author:
 paginate:         5
 
 # Custom vars
-version:         The template is from https://github.com/poole/hyde
+googlescholar: 
+   url:           'https://scholar.google.com/citations?view_op=list_works&hl=en&user=7C8_pL4AAAAJ'
+
 
