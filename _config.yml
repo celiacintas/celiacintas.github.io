@@ -11,7 +11,7 @@ title:            Celia Cintas
 tagline:          'Celia Cintas Homepage'
 description:      ''
 url:              http://celiacintas.github.io
-baseurl:          '/'
+baseurl:          ''
 
 author:
   name:           'Celia Cintas'
