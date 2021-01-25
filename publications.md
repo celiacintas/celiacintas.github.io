@@ -3,7 +3,11 @@ layout: page
 title: Publications
 ---
 
-## Selected Publications in the last 4 years 📜
+## Selected Publications in the last 5 years 📜
+
+### 2021
+
+* Tadesse ,A. G, Kim ,H., Daneshjou ,R., *Cintas ,C.*, Varshney ,K., Adelekun, A., Lipoff ,J., Onyekab, G., Rotemberg, V., Zou, J. Automated Evaluation of Representation in Dermatology Educational Materials. In AAAI 2021 Workshop: Trustworthy AI for Healthcare. [[paper]](https://taih20.github.io/papers/11/CameraReady/AAAI_2021_Trustworthy_camera_ready.pdf)
 
 ### 2020
 
