@@ -7,7 +7,7 @@ title: Talks
 
 ### 2021
 
-* **(English)** [TrustML Series](https://www.trustworthyml.org/seminar-series) - A tale of adversarial attacks & out-of-distribution detection stories. 🗓 Feb 18. See you there!!
+* **(English)** [TrustML Series](https://www.trustworthyml.org/seminar-series) - A tale of adversarial attacks & out-of-distribution detection stories. 🗓 Feb 18. [[slides]](https://github.com/celiacintas/celiacintas.github.io/blob/main/public/slides/2021/_TrustML_2020_presentation__A_tale_of_adversarial_attack_and_out_of_distributions_detection_stories_final.pdf)
 
 * **(English)** [IJCAI 2020](https://www.ijcai.org/Proceedings/2020/0122.pdf) - Detecting Adversarial Attacks via Subset Scanning of Autoencoder Activations
 and Reconstruction Error [[slides]](https://github.com/celiacintas/celiacintas.github.io/blob/main/public/slides/2020/_IJCAI_2020_presentation__AE___Subset.pdf)
