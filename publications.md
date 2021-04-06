@@ -7,7 +7,9 @@ title: Publications
 
 ### 2021
 
+* *Cintas, C.*, Das, P., Quanz, B., Speakman, S., Akinwande, V. and Chen, P.Y., 2021. Towards creativity characterization of generative models via group-based subset scanning. In ICLR 2021 Workshop: Synthetic Data Generation. [[paper]](https://arxiv.org/pdf/2104.00479.pdf)
 * Tadesse ,A. G, Kim ,H., Daneshjou ,R., *Cintas ,C.*, Varshney ,K., Adelekun, A., Lipoff ,J., Onyekab, G., Rotemberg, V., Zou, J. Automated Evaluation of Representation in Dermatology Educational Materials. In AAAI 2021 Workshop: Trustworthy AI for Healthcare. [[paper]](https://taih20.github.io/papers/11/CameraReady/AAAI_2021_Trustworthy_camera_ready.pdf)
+* Navarro, P., *Cintas, C.*, Lucena, M., Fuertes, J.M., Delrieux, C. and Molinos, M., 2021. Learning feature representation of Iberian ceramics with automatic classification models. Journal of Cultural Heritage, 48, pp.65-73.
 
 ### 2020
 
