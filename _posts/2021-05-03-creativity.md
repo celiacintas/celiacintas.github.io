@@ -1,9 +1,7 @@
 ---
 layout: post
-title: Towards creativity characterization of generative models via group-based subset scanning
+title: Towards creativity characterization of generative models in the Activation Space
 ---
-
-### Towards creativity characterization of generative models via group-based subset scanning
 
 We're going to be presenting some preliminary results in our work ["Towards creativity characterization of generative models via group-based subset scanning"](https://arxiv.org/pdf/2104.00479.pdf) at [Synthetic Data Generation Workshop at ICLR'21](https://sdg-quality-privacy-bias.github.io/papers/)
 
