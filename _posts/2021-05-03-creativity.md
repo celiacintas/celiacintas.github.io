@@ -11,5 +11,5 @@ Creativity is a process that  **provides novel and meaningful ideas**. Current d
 However, such models **discourage** out-of-distribution generation to avoid instability and decrease spurious sample generation, **limiting their creative** generation potential. We propose **group-based subset scanning** to quantify, detect, and characterize creative processes by detecting a subset of anomalous node-activations in the hidden layers of generative models. Our experiments on original, typically decoded, and "creatively decoded" (Das et al., 2020) image datasets reveal that the proposed subset scores distribution is more **useful for detecting creative processes in the activation space rather than the pixel space**. Further, we found that creative samples generate larger subsets of anomalies than normal or non-creative samples across datasets. Also, the node activations highlighted during the creative decoding process
 are different from those responsible for normal sample generation.
 
-![Poster](/public/post/output.gif){:height="256px" style="float: center; margin-right: 1em"}
+![Poster](/public/post/output.gif){:height="512px" style="float: center; margin-right: 1em"}
 
