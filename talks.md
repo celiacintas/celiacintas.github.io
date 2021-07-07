@@ -8,6 +8,8 @@ title: Talks
 ### 2021
 * **(English)** [The Responsible AI Forum](https://responsibleaiforum.com/about/schedule/) - Panel discussion on Diversity and Inclusiveness in Responsible AI - 🗓   06 December 2021.
 * **(English)** [3rd MICCAI Workshop on Domain Adaptation and Representation Transfer (DART)](https://sites.google.com/view/dart2021/) - TBA - 🗓  September 2021.
+* **(Español)** [FemIT 2021](https://lasdesistemas.org/femitconf2021/) - Keynote: Erase una vez en una galaxia muy muy lejana, entre ataques adversarios y detección de valores atípicos en sistemas de aprendizaje profundo - 🗓  August 2021.
+* **(English)** [LatinX in AI (LXAI) Research at ICML 2021](https://www.latinxinai.org/icml-2021-about) - Keynote: A tale of adversarial attacks & out-of-distribution detection stories - 🗓  July 2021.
 * **(Español)** Ciencia en español: IA para la investigación biomédica - Aprendizaje Automático y
 Equidad en Dermatología [[slides]](https://github.com/celiacintas/celiacintas.github.io/blob/main/public/slides/2021/_AI_en_Salud__Derma_Fairness_final.pdf)
 * **(English)** [TrustML Series](https://www.trustworthyml.org/seminar-series) - A tale of adversarial attacks & out-of-distribution detection stories. [[slides]](https://github.com/celiacintas/celiacintas.github.io/blob/main/public/slides/2021/_TrustML_2020_presentation__A_tale_of_adversarial_attack_and_out_of_distributions_detection_stories_final.pdf)[[video]](https://youtu.be/XWaaWWvPwDA)
