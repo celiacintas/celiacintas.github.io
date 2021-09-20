@@ -7,6 +7,7 @@ title: Talks
 
 ### 2021
 * **(English)** [The Responsible AI Forum](https://responsibleaiforum.com/about/schedule/) - Panel discussion on Diversity and Inclusiveness in Responsible AI - 🗓   06 December 2021.
+* **(Español)** [Nerdearla 2021](https://nerdear.la/en/) - Episodio IV: Detección de valores atípicos en modelos de aprendizaje profundo -  🗓  Octubre 2021.
 * **(English)** [3rd MICCAI Workshop on Domain Adaptation and Representation Transfer (DART)](https://sites.google.com/view/dart2021/) - TBA - 🗓  October 2021.
 * **(English)** [What's Next In AI - Seminar Series Africa](https://ibm.biz/whats-next-ai) - Towards Fairness & Robustness in Machine Learning for Dermatology. [[slides]](https://github.com/celiacintas/celiacintas.github.io/blob/main/public/slides/2021/_What_is_next_IBM_2021__Derma_Fairness.pdf)
 * **(Español)** [FemIT 2021](https://lasdesistemas.org/femitconf2021/) - Keynote: Erase una vez en una galaxia muy muy lejana, entre ataques adversarios y detección de valores atípicos en sistemas de aprendizaje profundo. [[slides]](https://github.com/celiacintas/celiacintas.github.io/blob/main/public/slides/2021/femit_keynote_alot_of_gifs.pdf)
