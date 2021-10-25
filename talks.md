@@ -7,6 +7,8 @@ title: Talks
 
 ### 2021
 * **(English)** [The Responsible AI Forum](https://responsibleaiforum.com/about/schedule/) - Panel discussion on Diversity and Inclusiveness in Responsible AI - 🗓   06 December 2021.
+* **(English)** [AMIA 2021](https://amia.org/education-events/amia-2021-annual-symposium) - Skin-tone Representation Analysis in Dermatology Academic Materials - 🗓  November 2021.
+* **(English)** [AMIA 2021](https://amia.org/education-events/amia-2021-annual-symposium) - Sequential Uptake Pattern Discovery for Family Planning Studies - 🗓  November 2021.
 * **(Español)** [Nerdearla 2021](https://nerdear.la/en/) - Episodio IV: Detección de valores atípicos en modelos de aprendizaje profundo. [[slides]](https://github.com/celiacintas/celiacintas.github.io/blob/main/public/slides/2021/_Nerdearla_2021__Episodio_IV.pdf)
 * **(English)** [3rd MICCAI Workshop on Domain Adaptation and Representation Transfer (DART)](https://sites.google.com/view/dart2021/) - Towards Fairness & Robustness in Machine Learning for Dermatology. [[slides (long version)]](https://github.com/celiacintas/celiacintas.github.io/blob/main/public/slides/2021/_DART__MICCAI_2021__Derma_Fairness_FINAL.pdf)
 * **(English)** [What's Next In AI - Seminar Series Africa](https://ibm.biz/whats-next-ai) - Towards Fairness & Robustness in Machine Learning for Dermatology. [[slides]](https://github.com/celiacintas/celiacintas.github.io/blob/main/public/slides/2021/_What_is_next_IBM_2021__Derma_Fairness.pdf)
