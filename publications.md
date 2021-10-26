@@ -14,9 +14,8 @@ title: Publications
 * Paschetta, C., de Azevedo, S., Ramallo, V., *Cintas, C.*, Pérez, O., Navarro, P., Bandieri, L., Sánchez, M.Q., Adhikari, K., Bortolini, M.C. and Ferrara, G.P., 2021. The impact of socioeconomic and phenotypic traits on self-perception of ethnicity in Latin America. **Scientific reports**, 11(1), pp.1-11.
 * Morales, L., Navarro, P., *Cintas, C.*, Gonzalez-Jose, R., Ramallo, V. and Delrieux, C., 2021. Bulsarapp: Interactive visual analysis for surname trend exploration. **IEEE Computer Graphics and Applications**.
 * Tadesse ,A. G, Kim ,H., Daneshjou ,R., *Cintas ,C.*, Varshney ,K., Adelekun, A., Lipoff ,J., Onyekab, G., Rotemberg, V., Zou, J. Automated Evaluation of Representation in Dermatology Educational Materials. In **AAAI 2021 Workshop**: Trustworthy AI for Healthcare. [[paper]](https://taih20.github.io/papers/11/CameraReady/AAAI_2021_Trustworthy_camera_ready.pdf)
-* Tadesse ,A. G, *Cintas, C.*, Daneshjou R., Varshney ,K., Staar, P., Speakman, S. Andrews, K., Agunwa, C., Jia, J. Bailey, E., Adelekun, A., Lipoff , B.,J., Onyekaba, G., Rottemberg, V., Zou, J. Skin-tone Representation Analysis in Dermatology Academic Materials (Podium abstract)  **To appear in AMIA 2021 Annual Symposium.**
+* Tadesse ,A. G, *Cintas, C.*, Daneshjou R., Varshney ,K., Staar, P., Speakman, S. Andrews, K., Agunwa, C., Jia, J. Bailey, E., Adelekun, A., Lipoff , B.,J., Onyekaba, G., Rottemberg, V., Zou, J. Skin-tone Representation Analysis in Dermatology Academic Materials.  **To appear in AMIA 2021 Annual Symposium.**
 * Barros, V., Akinwande, V., Manes, I., Bar-Shira, O., *Cintas, C.*, Shimoni, Y., Rosen-Zvi, M. Towards effect estimation of COVID-19 Non-pharmaceutical Interventions. **To appear in Proceedings AMIA 2021 Annual Symposium.**
-
 
 
 
@@ -25,7 +24,7 @@ title: Publications
 * Kinyanjui, N.M., Odonga, T., *Cintas, C.*, Codella, N.C., Panda, R., Sattigeri, P. and Varshney, K.R., 2020, October. Fairness of Classifiers Across Skin Tones in Dermatology. In **MICCAI 2020** - International Conference on Medical Image Computing and Computer-Assisted Intervention (pp. 320-329). Springer, Cham. [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-59725-2_31) [[slides]](https://github.com/celiacintas/celiacintas.github.io/blob/main/public/slides/2020/MICCAI_presentation__Derma_Fairness.pdf)
 * *Cintas, C.*, Speakman, S., Akinwande, V., Ogallo, W., Weldemariam, K., Sridharan, S. and McFowland, E., 2020. Detecting Adversarial Attacks via Subset Scanning of Autoencoder Activations and Reconstruction Error. **IJCAI 2020** - Proceedings of the Twenty-Ninth International Joint Conference on Artificial Intelligence Main track. Pages 876-882. [[paper]](https://www.ijcai.org/Proceedings/2020/0122.pdf)  [[slides]](https://github.com/celiacintas/celiacintas.github.io/blob/main/public/slides/2020/_IJCAI_2020_presentation__AE___Subset.pdf)
 * Maina, S.C., Bryant, R.E., Ogallo, W.O., Varshney, K.R., Speakman, S., *Cintas, C.*, Walcott-Bryant, A., Samoilescu, R.F. and Weldemariam, K., 2020, May. Preservation of Anomalous Subgroups On Variational Autoencoder Transformed Data. In **ICASSP 2020** -2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 3627-3631). IEEE. [[paper]](https://ieeexplore.ieee.org/abstract/document/9054495)
-* Akinwande, V., *Cintas, C.*, Speakman, S., Sridharan, S. Identifying Audio Adversarial Examples via Anomalous Pattern Detection. In Workshop on Adversarial Learning Methods for Machine Learning and Data Mining, KDD 2020. [[paper]](https://arxiv.org/abs/2002.05463)
+* Akinwande, V., *Cintas, C.*, Speakman, S., Sridharan, S. Identifying Audio Adversarial Examples via Anomalous Pattern Detection. In **Workshop on Adversarial Learning Methods for Machine Learning and Data Mining, KDD 2020**. [[paper]](https://arxiv.org/abs/2002.05463)
 
 ### 2019
 
