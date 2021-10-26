@@ -8,12 +8,18 @@ title: Publications
 ### 2021
 
 * *Cintas, C.*, Das, P., Quanz, B., Speakman, S., Akinwande, V. and Chen, P.Y., 2021. Towards creativity characterization of generative models via group-based subset scanning. In **ICLR 2021 Workshop**: Synthetic Data Generation. [[paper]](https://arxiv.org/pdf/2104.00479.pdf)
-* Tadesse ,A. G, Kim ,H., Daneshjou ,R., *Cintas ,C.*, Varshney ,K., Adelekun, A., Lipoff ,J., Onyekab, G., Rotemberg, V., Zou, J. Automated Evaluation of Representation in Dermatology Educational Materials. In **AAAI 2021 Workshop**: Trustworthy AI for Healthcare. [[paper]](https://taih20.github.io/papers/11/CameraReady/AAAI_2021_Trustworthy_camera_ready.pdf)
+* *Cintas, C.*, Akinwande, V., Raghavendra, R., Tadesse, G.A, Walcott-Bryant, A., Wayua, C., Makumbi, F, Wanyenze, R.K, Weldemariam, K., 2021. Data-Driven Sequential Uptake Pattern Discovery for Family Planning Studies. **To appear in Proceedings AMIA 2021 Annual Symposium.**
 * Kim, H., Tadesse, G.A., *Cintas, C.*, Speakman, S. and Varshney, K., 2021. Out-of-Distribution Detection in Dermatology using Input Perturbation and Subset Scanning. arXiv preprint arXiv:2105.11160. In **6th Outlier Detection & Description Workshop - KDD 2021**. [[paper]](https://arxiv.org/pdf/2105.11160.pdf)
 * Navarro, P., *Cintas, C.*, Lucena, M., Fuertes, J.M., Delrieux, C. and Molinos, M., 2021. Learning feature representation of Iberian ceramics with automatic classification models. **Journal of Cultural Heritage**, 48, pp.65-73.
 * Paschetta, C., de Azevedo, S., Ramallo, V., *Cintas, C.*, Pérez, O., Navarro, P., Bandieri, L., Sánchez, M.Q., Adhikari, K., Bortolini, M.C. and Ferrara, G.P., 2021. The impact of socioeconomic and phenotypic traits on self-perception of ethnicity in Latin America. **Scientific reports**, 11(1), pp.1-11.
 * Morales, L., Navarro, P., *Cintas, C.*, Gonzalez-Jose, R., Ramallo, V. and Delrieux, C., 2021. Bulsarapp: Interactive visual analysis for surname trend exploration. **IEEE Computer Graphics and Applications**.
-* *Cintas, C.*, Akinwande, V., Raghavendra, R., Tadesse, G.A, Walcott-Bryant, A., Wayua, C., Makumbi, F, Wanyenze, R.K, Weldemariam, K., 2021. Data-Driven Sequential Uptake Pattern Discovery for Family Planning Studies. **To appear in Proceedings (American Medical Informatics Association) AMIA 2021 Annual Symposium.**
+* Tadesse ,A. G, Kim ,H., Daneshjou ,R., *Cintas ,C.*, Varshney ,K., Adelekun, A., Lipoff ,J., Onyekab, G., Rotemberg, V., Zou, J. Automated Evaluation of Representation in Dermatology Educational Materials. In **AAAI 2021 Workshop**: Trustworthy AI for Healthcare. [[paper]](https://taih20.github.io/papers/11/CameraReady/AAAI_2021_Trustworthy_camera_ready.pdf)
+* Tadesse ,A. G, *Cintas, C.*, Daneshjou R., Varshney ,K., Staar, P., Speakman, S. Andrews, K., Agunwa, C., Jia, J. Bailey, E., Adelekun, A., Lipoff , B.,J., Onyekaba, G., Rottemberg, V., Zou, J. Skin-tone Representation Analysis in Dermatology Academic Materials (Podium abstract)  **To appear in AMIA 2021 Annual Symposium.**
+* Barros, V., Akinwande, V., Manes, I., Bar-Shira, O., *Cintas, C.*, Shimoni, Y., Rosen-Zvi, M. Towards effect estimation of COVID-19 Non-pharmaceutical Interventions. **To appear in Proceedings AMIA 2021 Annual Symposium.**
+
+
+
+
 ### 2020
 
 * Kinyanjui, N.M., Odonga, T., *Cintas, C.*, Codella, N.C., Panda, R., Sattigeri, P. and Varshney, K.R., 2020, October. Fairness of Classifiers Across Skin Tones in Dermatology. In **MICCAI 2020** - International Conference on Medical Image Computing and Computer-Assisted Intervention (pp. 320-329). Springer, Cham. [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-59725-2_31) [[slides]](https://github.com/celiacintas/celiacintas.github.io/blob/main/public/slides/2020/MICCAI_presentation__Derma_Fairness.pdf)
