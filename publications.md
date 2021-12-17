@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-## Selected Publications in the last ~5 years 📜
+## Selected Publications in the last 5 years 📜
 
 ### 2022
 
