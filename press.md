@@ -3,7 +3,7 @@ layout: page
 title: Press
 ---
 
-## Press 📯
+## Interviews & Press 📯
 
 * **(Español)** La Nacion - Inteligencia artificial para la mochila de Indiana Jones [[link]](https://www.lanacion.com.ar/tecnologia/inteligencia-artificial-para-la-mochila-de-indiana-jones-permite-catalogar-en-forma-autonoma-nid03012022/)
 * **(Español)** NEXCiencia - Inteligencia artificial para la mochila de Indiana Jones [[link]](https://nexciencia.exactas.uba.ar/sistema-capaz-catalogar-automaticamente-vasijas-ceramica-yacimientos-arqueologicos-inteligencia-artificial-celia-cintas-pablo-navarro-carlos-belotti-diego-fernandez-slezak)
