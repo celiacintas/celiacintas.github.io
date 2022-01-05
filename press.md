@@ -5,8 +5,7 @@ title: Press
 
 ## Interviews & Press 📯
 
-* **(Español)** La Nacion - Inteligencia artificial para la mochila de Indiana Jones [[link]](https://www.lanacion.com.ar/tecnologia/inteligencia-artificial-para-la-mochila-de-indiana-jones-permite-catalogar-en-forma-autonoma-nid03012022/)
-* **(Español)** NEXCiencia - Inteligencia artificial para la mochila de Indiana Jones [[link]](https://nexciencia.exactas.uba.ar/sistema-capaz-catalogar-automaticamente-vasijas-ceramica-yacimientos-arqueologicos-inteligencia-artificial-celia-cintas-pablo-navarro-carlos-belotti-diego-fernandez-slezak)
+* **(Español)** La Nacion - NEXCiencia - Inteligencia artificial para la mochila de Indiana Jones [[link]](https://www.lanacion.com.ar/tecnologia/inteligencia-artificial-para-la-mochila-de-indiana-jones-permite-catalogar-en-forma-autonoma-nid03012022/)[[link]](https://nexciencia.exactas.uba.ar/sistema-capaz-catalogar-automaticamente-vasijas-ceramica-yacimientos-arqueologicos-inteligencia-artificial-celia-cintas-pablo-navarro-carlos-belotti-diego-fernandez-slezak)
 * **(Español)** Entrevista en Otres en STEAM [[video]](https://youtu.be/cxvSiylKub4)[[link]](https://medium.com/mujeresensteam/otres-en-steam-qui%C3%A9n-es-celia-cintas-43d43b8d0131)
 * **(English)** Interview for Women in Science Section  - RSIP VISION [[link]](https://www.rsipvision.com/MICCAI2021-Wednesday/29/)
 * **(Español)** Cerámica ibérica + inteligencia artificial [[link]](https://fundaciondescubre.es/noticias/desarrollan-un-sistema-que-cataloga-ceramica-iberica-de-yacimientos-mediante-inteligencia-artificial/)
