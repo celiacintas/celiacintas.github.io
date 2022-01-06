@@ -7,7 +7,7 @@ title: Publications
 
 ### 2022
 
-* *Cintas, C.*, Speakman, S., Tadesse, G.A., Akinwande, V., McFowland III, E. and Weldemariam, K., 2022. Pattern Detection in the Activation Space for Identifying Synthesized Content. **To appear in Pattern Recognition Letters**. [[paper]](https://arxiv.org/pdf/2105.12479.pdf)
+* *Cintas, C.*, Speakman, S., Tadesse, G.A., Akinwande, V., McFowland III, E. and Weldemariam, K., 2022. Pattern Detection in the Activation Space for Identifying Synthesized Content. **Pattern Recognition Letters**. [[paper]](https://arxiv.org/pdf/2105.12479.pdf)[[paper]](https://www.sciencedirect.com/science/article/pii/S0167865521004372)
 
 ### 2021
 
