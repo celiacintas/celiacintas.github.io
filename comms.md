@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Press
+title: Comms
 ---
 
 ## Interviews & Press 📯
