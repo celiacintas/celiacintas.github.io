@@ -5,6 +5,11 @@ title: Talks
 
 ## Talks and other presentations 📯
 
+
+### 2022
+
+* **(English)** [WDS 2022](https://www.idia.ac.za/wds-2022-8-march-programme/) - Invited talk on Inspiring Women Data Scientists – sharing their journey -  🗓   March 2022.
+
 ### 2021
 * **(English)** [The Responsible AI Forum](https://responsibleaiforum.com/about/schedule/) - Invited panel discussion on Diversity and Inclusiveness in Responsible AI - 🗓   December 2021.
 * **(Español)** [XVI Jornadas de Informatica en Salud - Simposio AI](https://eventovirtualhiba.org.ar/jis-go-live-2021/inicio) - Hacia modelos de aprendizaje automático más robustos y equitativos en dermatología. [[slides]](https://github.com/celiacintas/celiacintas.github.io/blob/main/public/slides/2021/AI_en_Salud___Hospital_Italiano__Derma_Fairness_F.pdf)
