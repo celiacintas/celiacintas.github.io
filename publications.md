@@ -13,7 +13,7 @@ title: Publications
 
 ### 2021
 
-* *Cintas, C.*, Das, P., Quanz, B., Speakman, S., Akinwande, V. and Chen, P.Y., 2021. Towards creativity characterization of generative models via group-based subset scanning. In **ICLR 2021 Workshop**: Synthetic Data Generation. [[paper]](https://arxiv.org/pdf/2104.00479.pdf)
+* *Cintas, C.*, Das, P., Quanz, B., Speakman, S., Akinwande, V. and Chen, P.Y., 2021. Towards creativity characterization of generative models via group-based subset scanning. In **ICLR 2021 Workshop**: Synthetic Data Generation. [[paper]](https://sdg-quality-privacy-bias.github.io/papers/SDG_paper_22.pdf)
 * *Cintas, C.*, Akinwande, V., Raghavendra, R., Tadesse, G.A, Walcott-Bryant, A., Wayua, C., Makumbi, F, Wanyenze, R.K, Weldemariam, K., 2021. Data-Driven Sequential Uptake Pattern Discovery for Family Planning Studies. **To appear in Proceedings AMIA 2021 Annual Symposium.**
 * Kim, H., Tadesse, G.A., *Cintas, C.*, Speakman, S. and Varshney, K., 2021. Out-of-Distribution Detection in Dermatology using Input Perturbation and Subset Scanning. arXiv preprint arXiv:2105.11160. In **6th Outlier Detection & Description Workshop - KDD 2021**. [[paper]](https://arxiv.org/pdf/2105.11160.pdf)
 * Navarro, P., *Cintas, C.*, Lucena, M., Fuertes, J.M., Delrieux, C. and Molinos, M., 2021. Learning feature representation of Iberian ceramics with automatic classification models. **Journal of Cultural Heritage**, 48, pp.65-73.
