@@ -8,10 +8,12 @@ title: Talks
 
 ### 2022
 
-* **(English)** [WDS 2022](https://www.idia.ac.za/wds-2022-8-march-programme/) - Invited talk on Inspiring Women Data Scientists – sharing their journey -  🗓   March 2022.
+* **(English)** [AdvML Frontiers @ ICML 2022](https://advml-frontier.github.io/) - TBD - 🗓 July 2022.
+* **(English)** [IEEE Women in Engineering International Leadership Conference 2022](https://ieee-wie-ilc.org/program/) - Towards Fairness & Robustness in Machine Learning for Dermatology - 🗓 June 2022.
+* **(English)** [WDS 2022](https://www.idia.ac.za/wds-2022-8-march-programme/) - Invited talk on Inspiring Women Data Scientists – sharing their journey -  March 2022.
 
 ### 2021
-* **(English)** [The Responsible AI Forum](https://responsibleaiforum.com/about/schedule/) - Invited panel discussion on Diversity and Inclusiveness in Responsible AI - 🗓   December 2021.
+* **(English)** [The Responsible AI Forum](https://responsibleaiforum.com/about/schedule/) - Invited panel discussion on Diversity and Inclusiveness in Responsible AI - December 2021.
 * **(Español)** [XVI Jornadas de Informatica en Salud - Simposio AI](https://eventovirtualhiba.org.ar/jis-go-live-2021/inicio) - Hacia modelos de aprendizaje automático más robustos y equitativos en dermatología. [[slides]](https://github.com/celiacintas/celiacintas.github.io/blob/main/public/slides/2021/AI_en_Salud___Hospital_Italiano__Derma_Fairness_F.pdf)
 * **(English)** [AMIA 2021](https://amia.org/education-events/amia-2021-annual-symposium) - Skin-tone Representation Analysis in Dermatology Academic Materials.
 * **(English)** [AMIA 2021](https://amia.org/education-events/amia-2021-annual-symposium) - Sequential Uptake Pattern Discovery for Family Planning Studies.
