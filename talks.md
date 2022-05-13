@@ -14,7 +14,7 @@ title: Talks
 
 ### 2021
 * **(English)** [The Responsible AI Forum](https://responsibleaiforum.com/about/schedule/) - Invited panel discussion on Diversity and Inclusiveness in Responsible AI - December 2021.
-* **(Español)** [XVI Jornadas de Informatica en Salud - Simposio AI](https://eventovirtualhiba.org.ar/jis-go-live-2021/inicio) - Hacia modelos de aprendizaje automático más robustos y equitativos en dermatología. [[slides]](https://github.com/celiacintas/celiacintas.github.io/blob/main/public/slides/2021/AI_en_Salud___Hospital_Italiano__Derma_Fairness_F.pdf)
+* **(Español)** [XVI Jornadas de Informatica en Salud - Simposio AI](https://eventovirtualhiba.org.ar/jis-go-live-2021/inicio) - Hacia modelos de aprendizaje automático más robustos y equitativos en dermatología. [[slides]](https://github.com/celiacintas/celiacintas.github.io/blob/main/public/slides/2021/_AI_en_Salud___Hospital_Italiano__Derma_Fairness_F.pdf)
 * **(English)** [AMIA 2021](https://amia.org/education-events/amia-2021-annual-symposium) - Skin-tone Representation Analysis in Dermatology Academic Materials.
 * **(English)** [AMIA 2021](https://amia.org/education-events/amia-2021-annual-symposium) - Sequential Uptake Pattern Discovery for Family Planning Studies.
 * **(Español)** [Nerdearla 2021](https://nerdear.la/en/) - Episodio IV: Detección de valores atípicos en modelos de aprendizaje profundo. [[slides]](https://github.com/celiacintas/celiacintas.github.io/blob/main/public/slides/2021/_Nerdearla_2021__Episodio_IV.pdf)
