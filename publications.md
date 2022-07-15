@@ -7,7 +7,7 @@ title: Publications
 
 ### 2022
 
-* Navarro, P., *Cintas, C.*, Lucena, M., Fuertes, J, M., Segura, R., Delrieux, C. & González-José, R. Reconstruction of Iberian ceramic potteries using generative adversarial networks. **Scientific Reports**. [[paper]](https://www.nature.com/articles/s41598-022-14910-7)
+* Navarro, P., *Cintas, C.*, Lucena, M., Fuertes, J, M., Segura, R., Delrieux, C. & González-José, R., 2022. Reconstruction of Iberian ceramic potteries using generative adversarial networks. **Scientific Reports**. [[paper]](https://www.nature.com/articles/s41598-022-14910-7)
 * *Cintas, C.*, Das, P., Quanz, B., Tadesse, G.A., Speakman, S. and Chen, P.Y., 2022. Towards creativity characterization of generative models via group-based subset scanning. **To appear in Proceedings IJCAI 2022**. [[paper]](https://arxiv.org/pdf/2203.00523.pdf)
 * *Cintas, C.*, Speakman, S., Tadesse, G.A., Akinwande, V., McFowland III, E. and Weldemariam, K., 2022. Pattern Detection in the Activation Space for Identifying Synthesized Content. **Pattern Recognition Letters**. [[paper]](https://arxiv.org/pdf/2105.12479.pdf)[[paper]](https://www.sciencedirect.com/science/article/pii/S0167865521004372)
 * Kim, H., Tadesse, G.A., *Cintas, C.*, Speakman, S. and Varshney, K., 2022. Out-of-Distribution Detection in Dermatology using Input Perturbation and Subset Scanning. **Proceedings ISBI IEEE 2022**. 
