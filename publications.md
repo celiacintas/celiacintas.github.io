@@ -23,8 +23,8 @@ title: Publications
 * Morales, L., Navarro, P., *Cintas, C.*, Gonzalez-Jose, R., Ramallo, V. and Delrieux, C., 2021. Bulsarapp: Interactive visual analysis for surname trend exploration. **IEEE Computer Graphics and Applications**.
 * *Cintas, C.*, Speakman, S., Tadesse, G.A., Akinwande, V., McFowland III, E. and Weldemariam, K. SubsetGAN: Pattern detection in the activation space for Identifying Synthesised Content. In **SubsetML Workshop at ICML 2021**.
 * Tadesse ,A. G, Kim ,H., Daneshjou ,R., *Cintas ,C.*, Varshney ,K., Adelekun, A., Lipoff ,J., Onyekab, G., Rotemberg, V., Zou, J. Automated Evaluation of Representation in Dermatology Educational Materials. In **AAAI 2021 Workshop**: Trustworthy AI for Healthcare. [[paper]](https://taih20.github.io/papers/11/CameraReady/AAAI_2021_Trustworthy_camera_ready.pdf)
-* Tadesse ,A. G, *Cintas, C.*, Daneshjou R., Varshney ,K., Staar, P., Speakman, S. Andrews, K., Agunwa, C., Jia, J. Bailey, E., Adelekun, A., Lipoff , B.,J., Onyekaba, G., Rottemberg, V., Zou, J. Skin-tone Representation Analysis in Dermatology Academic Materials.  **To appear in AMIA 2021 Annual Symposium.**
-* Barros, V., Akinwande, V., Manes, I., Bar-Shira, O., *Cintas, C.*, Shimoni, Y., Rosen-Zvi, M. Towards effect estimation of COVID-19 Non-pharmaceutical Interventions. **To appear in Proceedings AMIA 2021 Annual Symposium.**
+* Tadesse ,A. G, *Cintas, C.*, Daneshjou R., Varshney ,K., Staar, P., Speakman, S. Andrews, K., Agunwa, C., Jia, J. Bailey, E., Adelekun, A., Lipoff , B.,J., Onyekaba, G., Rottemberg, V., Zou, J. Skin-tone Representation Analysis in Dermatology Academic Materials.  **AMIA 2021 Annual Symposium.**
+* Barros, V., Akinwande, V., Manes, I., Bar-Shira, O., *Cintas, C.*, Shimoni, Y., Rosen-Zvi, M. Towards effect estimation of COVID-19 Non-pharmaceutical Interventions. **AMIA 2021 Annual Symposium.**
 
 
 
