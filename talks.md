@@ -8,7 +8,8 @@ title: Talks
 
 ### 2022
 
-* **(English)** [AdvML Frontiers @ ICML 2022](https://advml-frontier.github.io/) - TBD - 🗓 July 2022.
+* **(English)** [AdvML Frontiers @ ICML 2022](https://advml-frontier.github.io/) - Keynote: A tale of adversarial attacks & out-of-distribution detection stories in the activation space - 🗓 July 2022.
+* **(English)** [New Frontiers Workshop Series on Generative AI (WEITA)](https://www.esb.tn/weita/?fbclid=IwAR2wIiVmkYBRK4oaJ4ZBbUvXLzerfU-S9flvWadp1LP7LlfaBkZO2w3gnbI) - Invited talk: Towards novelty characterization of creative processes via pattern detection in the activation space of generative models - 🗓 July 2022.
 * **(English)** [IJCAI 2022](https://ijcai-22.org/special-track-on-ai-the-arts-and-creativity-accepted-papers/) - Towards Creativity Characterization of Generative Models via Group-based Subset Scanning - 🗓 July 2022.
 * **(English)** [IEEE Women in Engineering International Leadership Conference 2022](https://ieee-wie-ilc.org/program/) - Towards Fairness & Robustness in Machine Learning for Dermatology - June 2022.
 * **(English)** [WDS 2022](https://www.idia.ac.za/wds-2022-8-march-programme/) - Invited talk on Inspiring Women Data Scientists – sharing their journey -  March 2022.
