@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Events Organization & others
+title: Events co-organization
 ---
 
 ## Conference Committees
