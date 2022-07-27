@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Events co-organization
+title: Events
 ---
+
+# Events co-organization 
 
 ## Conference Committees
 
