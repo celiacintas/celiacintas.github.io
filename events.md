@@ -7,6 +7,7 @@ title: Events
 
 ## Conference Committees
 
+* Workshop Co-Chair for [ICLR 2023](https://iclr.cc/Conferences/2023/Committees).
 * Diversity Co-Chair for [ISBI IEEE 2023](https://2023.biomedicalimaging.org/en/ORGANIZING-COMMITTEE.html).
 * Diversity Co-Chair for [SciPy](https://www.scipy2022.scipy.org/organizers) (2020-2022).
 * Financial Aid Co-Chair for the SciPy (USA) Committee (2016-2019).
