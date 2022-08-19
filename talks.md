@@ -7,7 +7,7 @@ title: Talks
 
 
 ### 2022
-* **(Spanish)** [SciPy Latinamerica 2022](https://pythoncientifico.ar/) - Keynote: Hacia modelos de aprendizaje automático más robustos y equitativos -  🗓 September 2022.
+* **(Español)** [SciPy Latinamerica 2022](https://pythoncientifico.ar/) - Keynote: Hacia modelos de aprendizaje automático más robustos y equitativos -  🗓 September 2022.
 * **(English)** [AdvML Frontiers @ ICML 2022](https://advml-frontier.github.io/) - Keynote: A tale of adversarial attacks & out-of-distribution detection stories in the activation space - July 2022.
 * **(English)** [New Frontiers Workshop Series on Generative AI (WEITA)](https://www.esb.tn/weita/?fbclid=IwAR2wIiVmkYBRK4oaJ4ZBbUvXLzerfU-S9flvWadp1LP7LlfaBkZO2w3gnbI) - Invited talk: Towards novelty characterization of creative processes via pattern detection in the activation space of generative models - July 2022.
 * **(English)** [IJCAI 2022](https://ijcai-22.org/special-track-on-ai-the-arts-and-creativity-accepted-papers/) - Towards Creativity Characterization of Generative Models via Group-based Subset Scanning - July 2022. [[slides (reduced size pdf)]](https://github.com/celiacintas/celiacintas.github.io/blob/main/public/slides/2022/_IJCAI_2022__Towards_creativity_FINAL.pdf)
