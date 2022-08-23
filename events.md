@@ -20,6 +20,6 @@ title: Events
 * 5th Workshop on PRedictive Intelligence in MEdicine - [PRIME @ MICCAI 2022](https://basira-lab.com/prime-miccai-2022/).
 * 3rd Practical ML for Developing Countries Workshop @ ICLR 2022 - [PML4DC 2022](https://pml4dc.github.io/iclr2022/organizers.html).
 
-## Sumer Schools
+## Summer Schools
 
-* TBA
+* 4th Big Data Africa School 2023 - [Applications Open!](https://www.sarao.ac.za/students/4th-big-data-africa-school/)
