@@ -10,7 +10,8 @@ title: Publications
 * Navarro, P., *Cintas, C.*, Lucena, M., Fuertes, J, M., Segura, R., Delrieux, C. & González-José, R., 2022. Reconstruction of Iberian ceramic potteries using generative adversarial networks. **Scientific Reports**. [[paper]](https://www.nature.com/articles/s41598-022-14910-7)
 * *Cintas, C.*, Das, P., Quanz, B., Tadesse, G.A., Speakman, S. and Chen, P.Y., 2022. Towards creativity characterization of generative models via group-based subset scanning. **IJCAI 2022**. [[paper]](https://www.ijcai.org/proceedings/2022/0683.pdf)
 * *Cintas, C.*, Speakman, S., Tadesse, G.A., Akinwande, V., McFowland III, E. and Weldemariam, K., 2022. Pattern Detection in the Activation Space for Identifying Synthesized Content. **Pattern Recognition Letters**. [[paper]](https://arxiv.org/pdf/2105.12479.pdf)[[paper]](https://www.sciencedirect.com/science/article/pii/S0167865521004372)
-* Kim, H., Tadesse, G.A., *Cintas, C.*, Speakman, S. and Varshney, K., 2022. Out-of-Distribution Detection in Dermatology using Input Perturbation and Subset Scanning. **Proceedings ISBI IEEE 2022**. 
+* Kim, H., Tadesse, G.A., *Cintas, C.*, Speakman, S. and Varshney, K., 2022. Out-of-Distribution Detection in Dermatology using Input Perturbation and Subset Scanning. **Proceedings ISBI IEEE 2022**.
+* Barros, V., Manes, I., Akinwande, V., *Cintas, C.*, Bar-Shira, O., Ozery-Flato, M., Shimoni, Y. and Rosen-Zvi, M., 2022. A causal inference approach for estimating effects of non-pharmaceutical interventions during Covid-19 pandemic. **PLOS One (In Press)**. 
 
 
 ### 2021
@@ -50,7 +51,7 @@ title: Publications
 
 ### 2017
 
-*  Quinto-Sánchez, M., *Cintas, C.*, Silva de Cerqueira, C.C., Ramallo, V., Acuña-Alonzo, V., Adhikari, K., Castillo, L., Gomez-Valdés, J., Everardo, P., De Avila, F. and Hünemeier, T., 2017. Socioeconomic status is not related with facial fluctuating asymmetry: evidence from Latin-American populations. **PloS one**, 12(1), p.e0169287. [[paper]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0169287#:~:text=We%20report%20significant%20relationships%20between,statistical%20relationship%20with%20facial%20asymmetry.)
+*  Quinto-Sánchez, M., *Cintas, C.*, Silva de Cerqueira, C.C., Ramallo, V., Acuña-Alonzo, V., Adhikari, K., Castillo, L., Gomez-Valdés, J., Everardo, P., De Avila, F. and Hünemeier, T., 2017. Socioeconomic status is not related with facial fluctuating asymmetry: evidence from Latin-American populations. **PLOS One**, 12(1), p.e0169287. [[paper]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0169287#:~:text=We%20report%20significant%20relationships%20between,statistical%20relationship%20with%20facial%20asymmetry.)
 * *Cintas, C.*, Quinto-Sánchez, M., Acuña, V., Paschetta, C., De Azevedo, S., de Cerqueira, C.C.S., Ramallo, V., Gallo, C., Poletti, G., Bortolini, M.C. and Canizales-Quinteros, S., 2016. Automatic ear detection and feature extraction using geometric morphometrics and convolutional neural networks. **IET Biometrics**, 6(3), pp.211-223. [[paper]](https://digital-library.theiet.org/content/journals/10.1049/iet-bmt.2016.0002)
 * de Azevedo, S., González, M.F., *Cintas, C.*, Ramallo, V., Quinto-Sánchez, M., Márquez, F., Hünemeier, T., Paschetta, C., Ruderman, A., Navarro, P. and Pazos, B.A., 2017. Nasal airflow simulations suggest convergent adaptation in Neanderthals and modern humans. **PNAS** - Proceedings of the National Academy of Sciences, 114(47), pp.12442-12447. [[paper]](https://www.pnas.org/content/114/47/12442.short)
 
