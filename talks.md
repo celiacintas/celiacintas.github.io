@@ -7,6 +7,7 @@ title: Talks
 
 
 ### 2022
+* **(English)** [ODSC West 2022](https://odsc.com/california/) - Invited talk: A Tale of Adversarial Attacks & Out-of-Distribution Detection Stories in the Activation Space -  🗓 November 2022.
 * **(English)** [LatinX in CV Workshop at ECCV 2022](https://www.latinxinai.org/events/eccv-2022) - Keynote: Towards novelty characterization of creative processes in the activation space of generative models - 🗓 October 2022.
 * **(Español)** [SciPy Latinamerica 2022](https://pythoncientifico.ar/) - Keynote: Hacia modelos de aprendizaje automático más robustos y equitativos -  🗓 September 2022.
 * **(English)** [AdvML Frontiers @ ICML 2022](https://advml-frontier.github.io/) - Keynote: A tale of adversarial attacks & out-of-distribution detection stories in the activation space - July 2022.
