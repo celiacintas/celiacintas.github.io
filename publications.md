@@ -7,11 +7,12 @@ title: Publications
 
 ### 2022
 
-* Navarro, P., *Cintas, C.*, Lucena, M., Fuertes, J, M., Segura, R., Delrieux, C. & González-José, R., 2022. Reconstruction of Iberian ceramic potteries using generative adversarial networks. **Scientific Reports**. [[paper]](https://www.nature.com/articles/s41598-022-14910-7)
 * *Cintas, C.*, Das, P., Quanz, B., Tadesse, G.A., Speakman, S. and Chen, P.Y., 2022. Towards creativity characterization of generative models via group-based subset scanning. **IJCAI 2022**. [[paper]](https://www.ijcai.org/proceedings/2022/0683.pdf)
+* Navarro, P., *Cintas, C.*, Lucena, M., Fuertes, J, M., Segura, R., Delrieux, C. & González-José, R., 2022. Reconstruction of Iberian ceramic potteries using generative adversarial networks. **Scientific Reports**. [[paper]](https://www.nature.com/articles/s41598-022-14910-7)
 * *Cintas, C.*, Speakman, S., Tadesse, G.A., Akinwande, V., McFowland III, E. and Weldemariam, K., 2022. Pattern Detection in the Activation Space for Identifying Synthesized Content. **Pattern Recognition Letters**. [[paper]](https://arxiv.org/pdf/2105.12479.pdf)[[paper]](https://www.sciencedirect.com/science/article/pii/S0167865521004372)
 * Kim, H., Tadesse, G.A., *Cintas, C.*, Speakman, S. and Varshney, K., 2022. Out-of-Distribution Detection in Dermatology using Input Perturbation and Subset Scanning. **Proceedings ISBI IEEE 2022**.
 * Barros, V., Manes, I., Akinwande, V., *Cintas, C.*, Bar-Shira, O., Ozery-Flato, M., Shimoni, Y. and Rosen-Zvi, M., 2022. A causal inference approach for estimating effects of non-pharmaceutical interventions during Covid-19 pandemic. **PLOS One (In Press)**. 
+* Tadesse, G.A., Born, J., *Cintas, C.*, Manica, M. and Weldemariam, K., 2022, August. MPEGO: A toolkit for multi-level performance evaluation of generative models for material discovery domains. In **ACM SIGKDD Workshop on Machine Learning for Materials Science**. [[paper]](https://research.ibm.com/publications/mpego-a-toolkit-for-multi-level-performance-evaluation-of-generative-models-for-material-discovery-domains) 
 
 
 ### 2021
