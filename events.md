@@ -22,4 +22,4 @@ title: Events
 
 ## Summer Schools
 
-* 4th Big Data Africa School 2023 - [Applications Open!](https://www.sarao.ac.za/students/4th-big-data-africa-school/)
+* 4th Big Data Africa School 2023 - [BDAS 2023](https://www.sarao.ac.za/students/4th-big-data-africa-school/).
