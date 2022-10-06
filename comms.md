@@ -3,8 +3,9 @@ layout: page
 title: Comms
 ---
 
-## Interviews & Press 📯
+## Interviews, Press & Blogs 📯
 
+* **(English)** Detecting Adversarial attacks with subset scanning [[link]](https://opendatascience.com/detecting-adversarial-attacks-with-subset-scanning/)
 * **(Español)** Inteligencia artificial para la mochila de Indiana Jones - La Nacion - NEXCiencia [[link]](https://www.lanacion.com.ar/tecnologia/inteligencia-artificial-para-la-mochila-de-indiana-jones-permite-catalogar-en-forma-autonoma-nid03012022/)[[link]](https://nexciencia.exactas.uba.ar/sistema-capaz-catalogar-automaticamente-vasijas-ceramica-yacimientos-arqueologicos-inteligencia-artificial-celia-cintas-pablo-navarro-carlos-belotti-diego-fernandez-slezak)
 * **(Español)** Entrevista en Otres en STEAM [[video]](https://youtu.be/cxvSiylKub4)[[link]](https://medium.com/mujeresensteam/otres-en-steam-qui%C3%A9n-es-celia-cintas-43d43b8d0131)
 * **(English)** Interview for Women in Science Section  - RSIP VISION [[link]](https://www.rsipvision.com/MICCAI2021-Wednesday/29/)
