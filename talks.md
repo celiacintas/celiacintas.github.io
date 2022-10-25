@@ -8,7 +8,7 @@ title: Talks
 
 ### 2022
 * **(English)** [Foundational Robustness of Foundation Models Tutorial @ NeurIPS 2022](https://sites.google.com/view/neurips2022-frfm-turotial/home) - Panel Discussion -  🗓 December 2022.
-* **(Español)** [PyData Panamá](www.meetup.com/es-ES/pydata-panama) - Charla Invitada: Detección de valores atípicos en modelos de aprendizaje profundo -  🗓 Noviembre 2022.
+* **(Español)** [PyData Panamá](https://www.meetup.com/es-ES/pydata-panama) - Charla Invitada: Detección de valores atípicos en modelos de aprendizaje profundo -  🗓 Noviembre 2022.
 *  **(English)** [ODSC West 2022](https://odsc.com/california/) - Invited talk: A Tale of Adversarial Attacks & Out-of-Distribution Detection Stories in the Activation Space -  🗓 Noviembre 2022.
 * **(English)** [LatinX in CV Workshop at ECCV 2022](https://www.latinxinai.org/events/eccv-2022) - Keynote: Towards novelty characterization of creative processes in the activation space of generative models - October 2022. [[slides]](https://drive.google.com/file/d/1vZpHpB6iV6QekYj0yBAZ-Vvzq5t4ZM5c/view?usp=sharing)
 * **(Español)** [SciPy Latinamerica 2022](https://pythoncientifico.ar/) - Keynote: Hacia modelos de aprendizaje automático más robustos y equitativos -   Septiembre 2022. [[slides]](https://drive.google.com/file/d/1LI__5qf2F4Kue348SmX11sFfukOAyX_z/view?usp=sharing)
