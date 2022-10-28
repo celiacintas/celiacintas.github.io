@@ -5,6 +5,10 @@ title: Publications
 
 ## Selected Publications in the last ~5 years 📜
 
+### 2023
+
+* Speakman, S., Tadesse, G.A., *Cintas, C.*, Ogallo, W.,  Akumu, T.L, Oshingbesan A.A. Detecting Systematic Deviations in Data and Models. **IEEE Computer Magazine**. (*In Press*)
+
 ### 2022
 
 * *Cintas, C.*, Das, P., Quanz, B., Tadesse, G.A., Speakman, S. and Chen, P.Y., 2022. Towards creativity characterization of generative models via group-based subset scanning. **IJCAI 2022**. [[paper]](https://www.ijcai.org/proceedings/2022/0683.pdf)
@@ -13,6 +17,8 @@ title: Publications
 * Kim, H., Tadesse, G.A., *Cintas, C.*, Speakman, S. and Varshney, K., 2022. Out-of-Distribution Detection in Dermatology using Input Perturbation and Subset Scanning. **Proceedings ISBI IEEE 2022**.
 * Barros, V., Manes, I., Akinwande, V., *Cintas, C.*, Bar-Shira, O., Ozery-Flato, M., Shimoni, Y. and Rosen-Zvi, M., 2022. A causal inference approach for estimating effects of non-pharmaceutical interventions during Covid-19 pandemic. **PLOS One**.  [[paper]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0265289)
 * Tadesse, G.A., Born, J., *Cintas, C.*, Manica, M. and Weldemariam, K., 2022, August. MPEGO: A toolkit for multi-level performance evaluation of generative models for material discovery domains. In **ACM SIGKDD Workshop on Machine Learning for Materials Science**. [[paper]](https://research.ibm.com/publications/mpego-a-toolkit-for-multi-level-performance-evaluation-of-generative-models-for-material-discovery-domains) 
+* Oshingbesan, A.A, Omondi, W.G, Tadesse, G.A, *Cintas, C.*, Speakman, S. Beyond Protected Attributes: Disciplined Detection of Systematic Deviations in Data. To appear in **Trustworthy and Socially Responsible Machine Learning Workshop at NeurIPS 2022**.
+* Tadesse, G.A., Ogallo, W., *Cintas, C.*, Speakman, S. Model-free feature selection to facilitate automatic discovery of divergent subgroups in tabular data. To appear in **IEEE International Conference on Big Data 2022**.
 
 
 ### 2021
