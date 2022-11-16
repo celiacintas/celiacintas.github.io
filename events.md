@@ -4,6 +4,7 @@ title: Events
 ---
 
 # Events co-organization 
+**This static site will not be updated please go to https://celiacintas.io/events for the latest events.**
 
 ## Conference Committees
 
