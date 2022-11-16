@@ -4,7 +4,7 @@ title: Talks
 ---
 
 ## Talks and other presentations 📯
-
+**This static site will not be updated please go to https://celiacintas.io/talks for the latest talks.**
 
 ### 2022
 * **(English)** [Foundational Robustness of Foundation Models Tutorial @ NeurIPS 2022](https://sites.google.com/view/neurips2022-frfm-turotial/home) - Panel Discussion -  🗓 December 2022.
