@@ -4,6 +4,9 @@ title: Publications
 ---
 
 ## Selected Publications in the last ~5 years 📜
+**This static site will not be updated please go to https://celiacintas.io/publications for the latest publications.**
+
+
 
 ### 2023
 
